@@ -1,0 +1,40 @@
+{
+  "Owen Chappell": {
+    "password": "Bill7718??",
+    "role": "user",
+    "songs": [
+      {
+        "title": "Laugh test",
+        "file": "songs\\9fd43cce.wav",
+        "id": "9fd43cce"
+      },
+      {
+        "title": "Test Two",
+        "file": "songs\\b538ae38.wav",
+        "id": "b538ae38"
+      }
+    ],
+    "playlists": {
+      "IT songs": [
+        "9fd43cce",
+        "b538ae38"
+      ]
+    },
+    "songcredits": {
+      "b538ae38": {
+        "artist": "Owen Chappell",
+        "credits": "No credits yet."
+      }
+    },
+    "albums": {
+      "test album": [
+        "b538ae38"
+      ]
+    },
+    "eps": {
+      "ep test": [
+        "b538ae38"
+      ]
+    }
+  }
+}
